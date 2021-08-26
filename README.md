@@ -3,5 +3,5 @@
 - Go
 - Node
 - Docker
-- Bitrise
+- Bitrise CLI
 
