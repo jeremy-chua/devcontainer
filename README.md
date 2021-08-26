@@ -1,7 +1,7 @@
 # Included tools
 
 - Go
-- Bitrise
+- Node
 - Docker
 - Bitrise
 
