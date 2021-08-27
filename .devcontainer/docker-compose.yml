@@ -13,7 +13,8 @@ services:
         NODE_VERSION: lts/*
         UPGRADE_PACKAGES: "true"
         ENABLE_NONROOT_DOCKER: "true"
-        # USERNAME: vscode
+        BITRISE_CLI_VERSION: 1.47.2
+        USERNAME: vscode
 
     init: true
     volumes:

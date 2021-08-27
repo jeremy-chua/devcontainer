@@ -4,3 +4,4 @@ definition-manifest.json
 .devcontainer/library-scripts/README.md
 .vscode
 .npmignore
+workspace.code-workspace

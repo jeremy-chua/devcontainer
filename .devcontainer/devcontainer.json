@@ -2,7 +2,7 @@
 	"name": "JC Dev Container",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "app",
-	"workspaceFolder": "/home/vscode/workspace",
+	"workspaceFolder": "/home/vscode/workspace/",
 
 	// Use this environment variable if you need to bind mount your local source code into a new container.
 	"remoteEnv": {
@@ -15,7 +15,13 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-azuretools.vscode-docker",
-		"golang.Go"
+		"golang.Go",
+		"dart-code.dart-code", 
+		"dart-code.flutter", 
+		"ms-vscode.vscode-typescript-next",
+		"ms-vscode.node-debug", 
+		"mongodb.mongodb-vscode", 
+		"ms-mssql.mssql"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
